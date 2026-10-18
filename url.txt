@@ -1,1 +1,1 @@
-ISI_DENGAN_URL_STREAMLIT_CLOUD_SETELAH_DEPLOY (https://airquality-6ppvmmka7sauxau7garvd8.streamlit.app/)
+(https://airquality-6ppvmmka7sauxau7garvd8.streamlit.app/)
